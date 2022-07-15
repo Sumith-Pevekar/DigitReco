@@ -8,4 +8,4 @@ In this project, ML algorithms are employed to extract digits from a dataset th
 Based on data from MNIST,  the training and testing data at https://www.kaggle.com/c/digit-recognizer/data.
 
 
-CNN model is used in this project with Adam and SGD optimizers. Out of the two optimizers used, SGD performs better than the Adam.
+CNN model is used in this project with Adam optimizer.
